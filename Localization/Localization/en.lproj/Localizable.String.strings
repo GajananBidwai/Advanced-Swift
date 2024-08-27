@@ -1,0 +1,9 @@
+/* 
+  Localizable.String.strings
+  Localization
+
+  Created by abcd on 23/08/24.
+  
+*/
+"FirstNameKey" = "First Name";
+"LastNameKey" = "Last Name";
